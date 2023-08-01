@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vscode/
+
+.DS_Store
+package-lock.json
+src.zip
+zip.sh
+logs
+newrelic_agent.log
+
+.npmrc
